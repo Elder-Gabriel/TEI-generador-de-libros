@@ -1,0 +1,4 @@
+fpdf
+openai
+python-dotenv
+requests
